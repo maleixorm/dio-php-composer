@@ -14,5 +14,6 @@
             "email": "maknytz@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "require-dev": {}
 }
